@@ -1,0 +1,6 @@
+{
+  "name": "crawlers",
+  "dependencies": {
+    "crawler": "^1.2.1"
+  }
+}
